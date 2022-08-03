@@ -38,7 +38,7 @@ function newGame() {
 function render() {
     renderBoard();
     renderButtons();
-    renderSavedGames();
+    renderSavedGames()
 };
 
 function renderBoard() {
